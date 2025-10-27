@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: StreamlitProjectSetup
+Version: 0.1
+Summary: A simple setup script for initializing a Streamlit project
+License-File: LICENSE
+Requires-Dist: streamlit
+Requires-Dist: groq
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
